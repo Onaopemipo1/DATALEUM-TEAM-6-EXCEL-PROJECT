@@ -33,4 +33,31 @@ Using Microsoft Excel, we were able to check the data for any errors or inconsis
 With the Data Already loaded in Microsoft Excel, we made some intereting visuals with the aid of the Pivot Table in Excel. Some key insights gotten from the dataset to help aid Sales Performance for the next year. 
 With the aid of some of the visuals we created, we were able to highlights some of the necessary Key Performance Indicators that were needed to help improve sales for the next year. 
 
-!
+![](DP01.png)
+
+![](DP02.png)
+
+![](DP03.png)
+
+![](DP04.png)
+
+![](DP05.png)
+
+![](DP06.png)
+
+![](DP07.png)
+
+![](DP08.png)
+
+![](DP09.png)
+
+![](DP10.png)
+
+![](DP11.png)
+
+![](DP12.png)
+
+![](DP13.png)
+
+## 6.0 - Insights
+There were some major insights gotten to help Vintage couture improve sales for the next year. They include the following;
